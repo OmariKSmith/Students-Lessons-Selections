@@ -1,5 +1,5 @@
 package org.javaclass.exercises;
-//!                             Build this class's toString, accessor, mutator methods.
+//!                             Build this class's toString, accessor, and mutator methods.
 //!                             Alter the isInStock method to check quantity before
 //!                             returning it's value.
 //!                             If quantity is < 1 return false
