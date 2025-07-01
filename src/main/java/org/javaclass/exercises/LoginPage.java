@@ -6,6 +6,4 @@ package org.javaclass.exercises;
 public class LoginPage {
     int password = 12345;
 
-
-
 }

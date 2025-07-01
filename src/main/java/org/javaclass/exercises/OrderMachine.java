@@ -1,5 +1,6 @@
 package org.javaclass.exercises;
 
+import org.javaclass.Solutions.OrderItem;
 public class OrderMachine {
 
 
@@ -10,7 +11,6 @@ public class OrderMachine {
 
         OrderMachine orderMachine = new OrderMachine();
         orderMachine.autoOrder(socks);
-
     }
 
     void autoOrder(OrderItem orderItem){

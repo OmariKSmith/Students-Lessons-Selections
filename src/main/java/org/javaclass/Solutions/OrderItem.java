@@ -4,7 +4,8 @@ package org.javaclass.Solutions;
 //!                             returning it's value.
 //!                             If quantity is < 1 return false
 
-class OrderItem {
+public class OrderItem {
+    String itemName;
     boolean inStock = true;
     double price = 45.50;
     int quantity = 0;
@@ -20,6 +21,14 @@ class OrderItem {
             this.inStock = false;
         }
         return inStock;
+    }
+
+    public String getItemName() {
+        return itemName;
+    }
+
+    public void setItemName(String itemName) {
+        this.itemName = itemName;
     }
 
     public void setInStock(boolean inStock) {
