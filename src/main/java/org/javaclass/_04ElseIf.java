@@ -10,7 +10,7 @@ public class _04ElseIf {
         if          (65 < 32)           {
 
         }
-        else if     (65 < 32)           {
+        else if     (64 < 32)           {
 
         }
         else                            {
