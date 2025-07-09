@@ -35,7 +35,7 @@ public class _05Switch {
 
 //`     If intVariable value equals case value execute the code block following case declaration
 
-
+//      long, float, double, and boolean cannot be used with switch statements
 
 
 

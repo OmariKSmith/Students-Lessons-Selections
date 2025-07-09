@@ -1,7 +1,7 @@
 package org.javaclass.exercises;
 
-import javax.swing.*;
-import java.util.Random;
+//`                         TO BE COMPLETED WITH INSTRUCTOR
+//`                     Solution available in Solutions package
 
 public class GuessNumberOneTry {
 

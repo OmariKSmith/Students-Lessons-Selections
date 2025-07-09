@@ -19,7 +19,7 @@ public class _04ElseIf {
 
 //      When the 'if' sentinel value is false, flow control goes to the 'else if' block
 
-//`     The 'else if' keyword has a sentinel value that works the same as the first
+//`     The 'else if' keyword has a sentinel value that works the same as the first if
 
 //      The 'else'  code body is executed when the 'else if' sentinel value is false.
 
